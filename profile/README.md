@@ -11,9 +11,9 @@ BlockDB provides normalized, schema-stable Ethereum and EVM datasets with reorg 
 | Repository | Description |
 |------------|-------------|
 | [blockdb-dataset-samples](https://github.com/blockdb-io/blockdb-dataset-samples) | Sample normalized DeFi datasets (CSV, JSON, Parquet) with schema definitions and lineage fields |
-| [blockdb-python-sdk](https://github.com/blockdb-io/blockdb-python-sdk) | Official Python client for the BlockDB API |
-| [blockdb-dotnet-sdk](https://github.com/blockdb-io/blockdb-js-api-sdk) | Official JS client for the BlockDB API |
-| [blockdb-dotnet-sdk](https://github.com/blockdb-io/blockdb-dotnet-sdk) | Official .NET SDK for enterprise and trading integrations |
+| [blockdb-python-api-sdk](https://github.com/blockdb-io/blockdb-python-sdk) | Official Python client for the BlockDB API |
+| [blockdb-js-api-sdk](https://github.com/blockdb-io/blockdb-js-api-sdk) | Official JS client for the BlockDB API |
+| [blockdb-dotnet-api-sdk](https://github.com/blockdb-io/blockdb-dotnet-sdk) | Official .NET SDK for enterprise and trading integrations |
 | [blockdb-openapi](https://github.com/blockdb-io/blockdb-openapi) | OpenAPI specification and REST interface definitions |
 | [blockdb-examples](https://github.com/blockdb-io/blockdb-examples) | Integration examples, notebooks, and quickstart implementations |
 
